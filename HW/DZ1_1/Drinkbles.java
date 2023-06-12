@@ -50,4 +50,3 @@ public class Drinkable extends Product {
         else System.out.println("Объем напитка должен быть больше нуля!");
     }
 }
-}

@@ -1,5 +1,7 @@
 package HW.DZ1_1;
 
+package org.example.hw;
+
 import java.math.BigDecimal;
 
 import HW.DZ1_1.Drinkbles.Drinkable;
@@ -17,9 +19,5 @@ public class BottleOfWater extends Drinkable {
      */
     public BottleOfWater(String name, BigDecimal price, Double volume) {
         super(name, price, volume);
-    }
-
-    public Object getName() {
-        return null;
     }
 }

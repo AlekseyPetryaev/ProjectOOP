@@ -1,6 +1,5 @@
 package HW.DZ1_1;
 
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -36,4 +35,3 @@ public class Main {
         Fanta,
     }
 }
-
